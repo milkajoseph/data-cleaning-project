@@ -1,0 +1,11 @@
+﻿Company,Location,Industry,Date,Number_Laid_Off,Total_Employees,Percentage_Laid_Off,Reason,Source
+TechNova Inc.,San Francisco,Tech,2024-11-15,300,1200,25,Cost-cutting,https://example.com/news1
+HealthCo,Chicago,Healthcare,2025-01-20,150,900,16.7,Restructuring,https://example.com/news2
+EduSmart,New York,EdTech,2025-02-10,80,500,16,Declining revenue,https://example.com/news3
+FinTechX,London,Finance,2024-12-01,200,1500,13.3,Merger downsizing,https://example.com/news4
+AutoGears,Detroit,Automotive,2025-03-05,500,3000,16.7,Factory automation,https://example.com/news5
+CloudWare,Seattle,Tech,2025-04-12,120,800,15,Strategic pivot,https://example.com/news6
+TravelWorld,Miami,Travel,2025-02-22,250,2000,12.5,Post-pandemic slowdown,https://example.com/news7
+AgroNova,Kansas City,Agriculture,2025-01-10,60,600,10,Budget constraints,https://example.com/news8
+MediaBuzz,Los Angeles,Media,2025-03-18,100,700,14.3,Ad revenue decline,https://example.com/news9
+GreenEnergyCo,Berlin,Energy,2024-12-22,90,1000,9,Investment pullback,https://example.com/news10
